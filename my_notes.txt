@@ -1,0 +1,3 @@
+Primera nota: Hoy estoy practicando Python.
+Segunda nota: Aprender a manejar archivos es importante.
+Tercera nota: GitHub me ayuda a guardar mis proyectos.
